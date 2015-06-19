@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\bin\Debug\quocdhps02567_Assignment.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\bin\Debug\quocdhps02567_Assignment.exe
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\bin\Debug\quocdhps02567_Assignment.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\bin\Debug\quocdhps02567_Assignment.xml
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.frmLogIn.resources
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.frmMain.resources
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.frmQuanLyKhachHang.resources
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.exe
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.xml
+c:\users\administrator\documents\visual studio 2012\Projects\quocdhps02567_Assignment\quocdhps02567_Assignment\obj\Debug\quocdhps02567_Assignment.pdb
